@@ -1,0 +1,108 @@
+{ 
+  "fathers" : [ 
+    { 
+      "id" : 0,
+      "married" : true,
+      "name" : "Ronald Gonzalez",
+      "sons" : null,
+      "daughters" : [ 
+        { 
+          "age" : 20,
+          "name" : "Jessica"
+          },
+        { 
+          "age" : 30,
+          "name" : "Karen"
+          },
+        { 
+          "age" : 15,
+          "name" : "Anna"
+          }
+        ]
+      },
+    { 
+      "id" : 1,
+      "married" : true,
+      "name" : "Frank Miller",
+      "sons" : null,
+      "daughters" : [
+        ]
+      },
+    { 
+      "id" : 2,
+      "married" : true,
+      "name" : "George Thompson",
+      "sons" : null,
+      "daughters" : [ 
+        { 
+          "age" : 24,
+          "name" : "Linda"
+          }
+        ]
+      },
+    { 
+      "id" : 3,
+      "married" : false,
+      "name" : "Robert Brown",
+      "sons" : null,
+      "daughters" : [ 
+        { 
+          "age" : 2,
+          "name" : "Helen"
+          }
+        ]
+      },
+    { 
+      "id" : 4,
+      "married" : true,
+      "name" : "Christopher Perez",
+      "sons" : null,
+      "daughters" : [ 
+        { 
+          "age" : 20,
+          "name" : "Kimberly"
+          }
+        ]
+      },
+    { 
+      "id" : 5,
+      "married" : false,
+      "name" : "Frank Wilson",
+      "sons" : null,
+      "daughters" : [ 
+        { 
+          "age" : 24,
+          "name" : "Nancy"
+          },
+        { 
+          "age" : 30,
+          "name" : "Donna"
+          }
+        ]
+      },
+    { 
+      "id" : 6,
+      "married" : false,
+      "name" : "Scott Williams",
+      "sons" : null,
+      "daughters" : [ 
+        { 
+          "age" : 11,
+          "name" : "Jennifer"
+          }
+        ]
+      },
+    { 
+      "id" : 7,
+      "married" : true,
+      "name" : "Brian Thomas",
+      "sons" : null,
+      "daughters" : [ 
+        { 
+          "age" : 15,
+          "name" : "Patricia"
+          }
+        ]
+      }
+    ]
+  }
